@@ -10,6 +10,9 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="stylus">
+.text-right
+  text-align: right
+.text-center
+  text-align: center
 </style>
